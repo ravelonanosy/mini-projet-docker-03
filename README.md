@@ -155,12 +155,13 @@ Finally, reach website and click on the bouton "List Student"
 
 Previously I already created a local registry on another machine(IP: 192.168.56.142:8090), so I will use it to push the student-list-img image used for this project.
 
-docker-compose-registry.yml will be added to the project directory.
+This application was created with docker compose using the file docker-compose-registry.yml
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/7e7a4f74-00cc-496b-b3e3-6949e74cb720)
+docker-compose-registry.yml will be added to the project directory.
 
 We now tag and send the image to the remote registry.
 
+![docker_remore_registry](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/53c4d561-e794-4c2d-b691-2d5b9199b396)
 
 It can be seen on the remote registry portal.
 
