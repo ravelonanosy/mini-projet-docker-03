@@ -145,7 +145,8 @@ Run docker-compose.yml
 
 Finally, reach website and click on the bouton "List Student"
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/5a9168de-8928-422f-9988-7b827f30b41b)
+![image](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/cc010aa6-9310-4a23-9883-a936ab1d830c)
+
 
 
 **If the list of the student appears, you are successfully dockerizing the POZOS application! Congratulation (make a screenshot)**
