@@ -70,7 +70,8 @@ docker network create student-list-network
 docker network ls
 
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/779fda78-6784-409d-b026-73cbffa3cef2)
+![docker_network](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/d090e255-9fc0-4c6d-865c-a716fae4767e)
+
 
 
 3-create container running the API flask python using persistent volume, network brige type on the port 5000
