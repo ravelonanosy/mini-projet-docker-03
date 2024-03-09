@@ -87,7 +87,8 @@ docker ps
 
 curl -u toto:python -X GET http://192.168.56.141:5000/pozos/api/v1.0/get_student_ages
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/d0f6dc9c-af2a-4eeb-baff-f127805f16cb)
+![docker_curl](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/84338fe0-ce51-447a-8e9c-1612c7ea84ee)
+
 
 
 4-create web container on the same network and using  persistent volume
