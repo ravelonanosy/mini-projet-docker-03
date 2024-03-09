@@ -80,7 +80,8 @@ docker run --rm -d --name=student_list_api -p 5000:5000 -v ./simple_api:/data --
 
 docker ps
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/e0de3cd0-34f2-422e-b511-b8275a8f3e9a)
+![run_API_flask](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/d2dc6af1-58e9-4255-bab4-c09cdc779893)
+
 
 3bis- run curl command to make sure that the API correctly responding
 
