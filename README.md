@@ -175,5 +175,6 @@ It can be seen on the remote registry portal.
 
 The ravelonanosy.zip file was sent to the address: eazytrainingfr@gmail.com 
 It contains :
--all files used for the project
--the capture of the README.md file, explaining the entire deployment process.
+- all files used for the project
+- 
+- the capture of the README.md file, explaining the entire deployment process.
