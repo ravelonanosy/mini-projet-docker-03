@@ -95,7 +95,8 @@ curl -u toto:python -X GET http://192.168.56.141:5000/pozos/api/v1.0/get_student
 
 Before running this container, we must modify the index.php file to enter the URL of the flask python API as well as the login and password for the connection
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/a7e9bc75-87ef-4b4e-a3fc-5051463e7f29)
+![image](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/a8e223aa-7100-4189-9634-0d6822497afc)
+
 
 Now we can create and execute the container
 
