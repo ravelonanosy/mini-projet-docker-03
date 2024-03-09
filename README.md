@@ -112,10 +112,7 @@ docker ps
 
 From the internet browser, enter the URL composed of the IP address(192.168.56.141) of the host and the port(8000)
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/d5cfe2d1-9dce-4e15-843f-88ca60896d72)
-
-
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/64d5bfed-a61b-4bd2-aab8-43dfa650ed0d)
+![image](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/e4884038-d2f1-4f90-b9b0-5fc733fead8c)
 
 
 
