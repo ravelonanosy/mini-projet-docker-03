@@ -155,31 +155,18 @@ Finally, reach website and click on the bouton "List Student"
 
 Previously I already created a local registry on another machine(IP: 192.168.56.142:8090), so I will use it to push the student-list-img image used for this project.
 
-This is the docker compose yml file for creating this registry:
+docker-compose-registry.yml will be added to the project directory.
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/22540fff-715e-45bd-99c5-9bd40bcc4fd7)
-
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/16b95ae1-ea9d-4d1b-ab59-8d81baf0bb66)
-
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/dc8d5519-eb4c-4592-b477-6658b6c1532c)
-
-I set up an ssh connection between the remote registry and the machine where the student-list project runs.
-
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/6fa780b0-b77f-44e3-90e5-18579bc9dc12)
+![image](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/7e7a4f74-00cc-496b-b3e3-6949e74cb720)
 
 We now tag and send the image to the remote registry.
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/a91ee28f-d94c-4ee2-a913-f334894e90c4)
 
 It can be seen on the remote registry portal.
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/6b3c9261-a776-4cac-aa27-8bd44e0a37e0)
 
-docker-compose-registry.yml will be added to the project directory.
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/e794c3ea-75ac-4d3f-a48d-c00570668999)
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/2bf587d8-ff95-4cb9-9df9-c1e68f38824d)
 
 
 ## Delivery 
