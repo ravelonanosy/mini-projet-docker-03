@@ -173,15 +173,7 @@ It can be seen on the remote registry portal.
 
 ## Delivery 
 
-Your delivery must be zip named firstname.zip (replace firstname by your own) that contain:
-
-- A doc or PDF file with your screenshots and explanations.
-- Configuration files used to realize the graded exercise (docker-compose.yml and Dockerfile).
-
-Your delivery will be evaluated on:
-
-- Explanations quality
-- Screenshots quality (relevance, visibility)
-- Presentation quality
-
-Send your delivery at ***eazytrainingfr@gmail.com*** and we will provide you the link of the solution.
+The ravelonanosy.zip file was sent to the address: eazytrainingfr@gmail.com 
+It contains :
+-all files used for the project
+-the capture of the README.md file, explaining the entire deployment process.
