@@ -136,14 +136,11 @@ The ***docker-compose.yml*** file will deploy two services :
    - port: don't forget to expose the port
    - networks: don't forget to add specific network for your project
 
-Delete the previous created container
-
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/d6b2a2d3-72d2-4e11-89b8-5fd4dcc0c99b)
-
+After deleting the containers created previously.
 
 Run docker-compose.yml
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/f6154137-5949-4db4-92b3-bcbd630f75ea)
+![image](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/3a4c7c10-1b47-48b7-8a17-8e1bef6c6107)
 
 
 Finally, reach website and click on the bouton "List Student"
