@@ -166,6 +166,7 @@ We now tag and send the image to the remote registry.
 It can be seen on the remote registry portal.
 
 
+![image](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/e8d61f8f-3bde-44cf-8346-237607d19f26)
 
 
 
