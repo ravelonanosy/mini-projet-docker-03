@@ -60,7 +60,7 @@ Now it is time to explain you each file's role:
  
  docker images
  
- ![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/c40030b8-5fa1-41f1-a01a-92c5c8c56828)
+![docker_images](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/28bf0dcd-78d5-4e9f-8582-d26a5937dbe6)
 
 
 2-create network "bridge type"
