@@ -104,7 +104,8 @@ docker run --rm -d --name=student_list_web -p 8000:80 -v ./website:/var/www/html
 
 docker ps 
 
-![image](https://github.com/ravelonanosy/mini-projet-docker-02/assets/138290448/d16c68eb-b5a9-44ff-a148-b8f870f84a51)
+![docker_web](https://github.com/ravelonanosy/mini-projet-docker-03/assets/138290448/6ee52622-c959-4478-970e-b3f5caec2cbd)
+
 
 
 5-test web URL:
