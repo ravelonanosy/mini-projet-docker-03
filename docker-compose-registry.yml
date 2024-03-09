@@ -1,0 +1,27 @@
+version: '3'
+services:
+    registry:
+        ports:
+            - 5000:5000
+        environment:
+            - REGISTRY_STORAGE_DELETE_ENABLED=true
+        networks:
+            - student-list-nw
+        container_name: registry-student-list-nw
+        image: registry:2
+    docker-registry-ui:
+        ports:
+            - 8090:80
+        environment:
+            - REGISTRY_URL=http://registry-student-list-nw:5000
+            - DELETE_IMAGES=true
+            - REGISTRY_TITLE=nra
+            - CATALOG_ELEMENTS_LIMIT=1000
+        networks:
+            - student-list-nw
+        container_name: frontend-student-list-nw
+        image: joxit/docker-registry-ui:1.5-static
+networks:
+    student-list-nw:
+        external: true
+        name: student-list-nw

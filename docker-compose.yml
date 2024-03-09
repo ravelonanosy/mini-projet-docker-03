@@ -1,0 +1,29 @@
+version: '3'
+services:
+    student-list-img:
+        container_name: student_list_api
+        ports:
+            - 5000:5000
+        volumes:
+            - ./simple_api:/data
+        networks:
+            - student-list-network
+        image: student-list-img:v1
+    php:
+        container_name: student_list_web
+        ports:
+            - 8000:80
+        volumes:
+            - ./website:/var/www/html
+        networks:
+            - student-list-network
+        environment:
+            - USERNAME=toto
+            - PASSWORD=python
+        depends_on:
+            - student-list-img
+        image: php:apache
+networks:
+    student-list-network:
+        external: true
+        name: student-list-network
